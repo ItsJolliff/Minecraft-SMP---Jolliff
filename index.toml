@@ -179,6 +179,11 @@ hash = "66a937682d0290fe03917b0eb6dc6251569541ad51629cde8095a0c807a77277"
 metafile = true
 
 [[files]]
+file = "mods/voxelized-furniture.pw.toml"
+hash = "db8d21c7ec52bc34d764e1a21990b753229816fa82cac30be21f4b78dbdfdb19"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1f764c8e5fe563604a665856e6a310da2986ba78a7da83e53f4c8aaeaba9ca06"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Furniture - Voxelized Furniture"
+filename = "voxelized_furniture-1.7.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fa6bc91091ed1e113449b423c198337b53164a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9302319
+project-id = 1440988
