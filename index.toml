@@ -99,6 +99,10 @@ hash = "91e8719a2b1c6a9b4ee6b3b9658ef5357cc2be66a6dddc6407e4529181902aff"
 metafile = true
 
 [[files]]
+file = "mods/framework-forge-1.20.1-0.8.0.jar"
+hash = "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
@@ -132,6 +136,10 @@ metafile = true
 file = "mods/peacegiver.pw.toml"
 hash = "10c077fbcfdc5bf51d7dd629e313ba0c58cbbc073ae2228cb4a2b78f15dbae05"
 metafile = true
+
+[[files]]
+file = "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
+hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
 
 [[files]]
 file = "mods/saros-mob-ragdoll-compat-and-fixes.pw.toml"
