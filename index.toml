@@ -118,6 +118,11 @@ hash = "b363d0d12d9ed3d9017d41652afddf23281b5ad2f9969c1e9f1a0238f729cf72"
 metafile = true
 
 [[files]]
+file = "mods/locks-reforged.pw.toml"
+hash = "fba6bd4f3e387dd73dea9e4be1238647a9f373528da7be500c425002a931c753"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
 metafile = true

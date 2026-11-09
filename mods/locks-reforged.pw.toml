@@ -1,0 +1,13 @@
+name = "Locks Reforged"
+filename = "locks_reforged-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e62bd42c78bf40b595c2ec760145aa265d75aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9400305
+project-id = 1467684
