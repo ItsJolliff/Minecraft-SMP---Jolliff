@@ -1,0 +1,13 @@
+name = "Saro's Mob Ragdoll"
+filename = "Saros-Mob-Ragdoll-Forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f5cb2fb551a4c7e6062d326bc0d2707c4cc41a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8692347
+project-id = 1627000

@@ -1,0 +1,13 @@
+name = "Minecraft SMP - Jolliff"
+author = "ItsJolliff"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fa162faf35e4b96b1c12bddd8d8913f0b8dbf99f4fe4cbb3920763e9f60383fa"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

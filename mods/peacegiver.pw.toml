@@ -1,0 +1,13 @@
+name = "PeaceGiver"
+filename = "peacegiver-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7230282d427b1a056d3b9c6409fbedcd3ecbc340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7263912
+project-id = 1370917

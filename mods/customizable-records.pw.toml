@@ -1,0 +1,13 @@
+name = "Customizable Records"
+filename = "customrecords-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1e97439d515a40f7a5ffc95dfb4348b87b89552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9142037
+project-id = 1475536

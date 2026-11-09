@@ -1,0 +1,13 @@
+name = "Simple Schematics"
+filename = "simpleschematics-forge-1.20.1-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a8dfecebf6c1deab155c5a1e596ebafa0e03b4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9510883
+project-id = 1715746

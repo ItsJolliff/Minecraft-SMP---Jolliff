@@ -1,0 +1,181 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "a14e9890eca705a0f01d1825bd1b26501a0b99db4f112296382819171441e87d"
+metafile = true
+
+[[files]]
+file = "mods/chessmod.pw.toml"
+hash = "414a1b79fe934aea5f4ab1ee560352cf8a2709bb34e731ededfd3733fcddca31"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "cbed2f3783d85583f12ab06b55a5c6c7bc76eaa67065f7071edb25430604c113"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a7518bb0e6ecde24ba686aca9dd06f4d82c3ed1ba566ac7c3bf16faa2af22c13"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6a62d8663df5fe33f18c8a0d3784a3aab183b252c620c45fc98e677a71b06cde"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "77f479f765b307ff09a3d0b90719bb3b929d59af193d1ed746dab513fe14f2c5"
+metafile = true
+
+[[files]]
+file = "mods/customizable-records.pw.toml"
+hash = "ff6637c6a37d4602366f49f6a416398270471994fd93793a206eec0aa9509833"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
+file = "mods/duplicationless.pw.toml"
+hash = "478e28d01207ceabc77c10ec5c92a53c6d863a1d6200076d9d79be5daaefedc6"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "bf61a0485745011ef2050f3869c12d9c58088f1827fd3c3d1227eab8b982af46"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "185797e9f6c75a53c95366b75eb136695c9bed180674a24b02abd377acdf2e82"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "91e8719a2b1c6a9b4ee6b3b9658ef5357cc2be66a6dddc6407e4529181902aff"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "facb584eb3ea1af1fe61eb3cd5d88f68069d4293b3c1a7747dca208206601785"
+metafile = true
+
+[[files]]
+file = "mods/laterdiscs.pw.toml"
+hash = "b363d0d12d9ed3d9017d41652afddf23281b5ad2f9969c1e9f1a0238f729cf72"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/peacegiver.pw.toml"
+hash = "10c077fbcfdc5bf51d7dd629e313ba0c58cbbc073ae2228cb4a2b78f15dbae05"
+metafile = true
+
+[[files]]
+file = "mods/saros-mob-ragdoll-compat-and-fixes.pw.toml"
+hash = "f346446436bf9ae08708403b1fbd17b2c6059a4fa7dda142c873207e9833a000"
+metafile = true
+
+[[files]]
+file = "mods/saros-mob-ragdoll.pw.toml"
+hash = "1130375f185b4bffcc17ded0a2ba08f8e5b42c4a6efe77dff39751bac2b5eda6"
+metafile = true
+
+[[files]]
+file = "mods/simple-schematics.pw.toml"
+hash = "380baa921a991821d13bd8609b0ae632009aae97eb3fac8f225765bb7ca01a99"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "69eb16c7f64fd4ea90794823dc620af0110eb978dfea2b4917fff9df781cd194"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "021977e176fc928586c7dd6793b788be01a524e7d8547226d30d9ec9c5fb454a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7a0eeb803fe4779819a46d114380eb671f272e52e8f23f2b16bbaa88e3f1ca53"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bdea6efdca7bd778a06437a865559c8019f200b798cae419cc37818d6d4f989c"
+metafile = true

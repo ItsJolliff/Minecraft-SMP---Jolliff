@@ -1,0 +1,13 @@
+name = "Saro's Mob Ragdoll Compat and Fixes"
+filename = "saros_ragdoll_fix-forge-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c4df8787a75936e48591ff044446bb71c47302e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9279412
+project-id = 1755104
