@@ -133,6 +133,11 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "d0f26fec7fbf45cf3b58b2302ad169a1a5fea867c896fd940bed194cc247583d"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
@@ -169,6 +174,16 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "021977e176fc928586c7dd6793b788be01a524e7d8547226d30d9ec9c5fb454a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "f18e9e5df1ee9ed7ed6dd6ba9eb2df1417b2c40fb30820a2576616b1014f1d83"
 metafile = true
 
 [[files]]
