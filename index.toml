@@ -118,6 +118,11 @@ hash = "fba6bd4f3e387dd73dea9e4be1238647a9f373528da7be500c425002a931c753"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "dedd63a029e779fa904ae374de5dea1d655bb5527701fe262f8bea2a0c1d0d3d"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
 metafile = true
