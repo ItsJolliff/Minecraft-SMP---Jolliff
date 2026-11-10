@@ -123,6 +123,11 @@ hash = "dedd63a029e779fa904ae374de5dea1d655bb5527701fe262f8bea2a0c1d0d3d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "8728882e97cd2c7ff8746d95598be7f15fcb392dc9a146319504e0119f052a8e"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
 metafile = true
